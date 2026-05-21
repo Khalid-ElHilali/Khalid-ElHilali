@@ -3,9 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalid-ElHilali&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khalid-ElHilali&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
+
+<!-- GitHub Activity Graph (replaces main stats card) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid-ElHilali&theme=react-dark" height="250"/>
+
+<br/>
+
+<!-- GitHub Trophy (replaces top-langs + stats combo visually) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Khalid-ElHilali&theme=dracula&no-frame=true&margin-w=10" />
+
 </div>
 
 ###
